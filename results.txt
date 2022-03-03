@@ -1,0 +1,25 @@
+Быстрая сортировка
+Time(1) = 0.139
+Time(2) = 0.125
+Time(3) = 0.129
+Time(4) = 0.136
+Time(5) = 0.141
+Time(6) = 0.128
+Time(7) = 0.133
+Time(8) = 0.138
+Time(9) = 0.139
+Time(10) = 0.127
+SrTime = 0.1335
+
+Сортировка кучей(пирамидальная)
+TimeHeap(1) = 0.391
+TimeHeap(2) = 0.434
+TimeHeap(3) = 0.376
+TimeHeap(4) = 0.33
+TimeHeap(5) = 0.333
+TimeHeap(6) = 0.328
+TimeHeap(7) = 0.328
+TimeHeap(8) = 0.333
+TimeHeap(9) = 0.328
+TimeHeap(10) = 0.332
+SrTime = 0.3513
